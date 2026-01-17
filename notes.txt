@@ -1,0 +1,2 @@
+Gas fees change every block.
+Use testnet for learning.
